@@ -1,8 +1,5 @@
 
-
-
-### 引脚连接:
- 
+### 引脚连接：
 mpu6050 姿态传感器
 
 VCC -> 3.3/5 v        GND -> GND         SDA -> PB7    SCL -> PB6
@@ -20,7 +17,6 @@ wifi模块：
 使用usart3：TX-PB10  RX-PB11
 
 CH340模块 TX-RXD  RX-TXD
-
 
 
 
